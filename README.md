@@ -1,5 +1,7 @@
 # Meowing Cat
 
+Caryn was here! 
+
 ## Objectives
 
 1. Practice defining a class
