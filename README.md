@@ -2,6 +2,8 @@
 
 Caryn was here! With squad 111620!~~!!
 
+Taking care of git-ness, everyday!!!!
+
 ## Objectives
 
 1. Practice defining a class
